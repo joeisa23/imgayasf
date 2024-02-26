@@ -1,0 +1,29 @@
+{
+    "Name": "charlie higgings",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/eid_goodbye/smallicon.png",
+    "Swapicon": "https://fortnite-api.com/images/cosmetics/br/eid_pizzaparty/icon.png",
+    "Message": "Made by Ignition",
+    "Assets": [
+      {
+        "AssetPath":"",
+        "Swaps": [
+            {
+                "type": "string",
+                "search": "",
+                "replace": "",
+                "UEFN": true
+            }
+        ]
+      },
+      {
+          "AssetPath": "",
+          "AssetPathTo": ""
+      }
+    ],
+    "Downloadables": [
+        {
+          "zip": ""
+       }
+     ]
+  }
+  
